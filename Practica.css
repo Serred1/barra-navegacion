@@ -1,0 +1,21 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+
+  ol ola{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .ola {
+    display: block;
+    width: 60px;
+    background-color: #05b370;
+  }
